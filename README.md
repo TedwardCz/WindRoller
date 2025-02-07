@@ -1,3 +1,5 @@
+Be advised, EVERYTHING besides this singular line in this singular file was made by Winddsurf with absolutely no code written.
+
 # WindRoller
 
 A beautiful PowerShell-based dice rolling application with a modern GUI interface.
