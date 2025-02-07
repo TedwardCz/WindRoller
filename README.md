@@ -1,4 +1,4 @@
-Be advised, EVERYTHING besides this singular line in this singular file was made by Winddsurf with absolutely no code written.
+Be advised, EVERYTHING besides this singular line in this singular file was made by Winddsurf with absolutely no code written by a human.
 
 # WindRoller
 
